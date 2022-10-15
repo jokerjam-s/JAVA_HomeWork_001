@@ -18,11 +18,26 @@
 
 Вывести все простые числа от 1 до 1000
 
+!["Скрин 4"](/ScreenShots/task_002_01.png "Screen 4")
+
+**Скриншоты**
+
+!["Скрин 5"](/ScreenShots/task_002_02.png "Screen 5")
+
+
 ---
 
 ## Задача 3
 
 Реализовать простой калькулятор
+
+**Скриншоты**
+
+!["Скрин 6"](/ScreenShots/task_003_01.png "Screen 6")
+!["Скрин 7"](/ScreenShots/task_003_02.png "Screen 7")
+!["Скрин 8"](/ScreenShots/task_003_02.png "Screen 8")
+!["Скрин 9"](/ScreenShots/task_003_02.png "Screen 9")
+
 
 ---
 
