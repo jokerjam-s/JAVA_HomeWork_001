@@ -35,8 +35,8 @@
 
 !["Скрин 6"](/ScreenShots/task_003_01.png "Screen 6")
 !["Скрин 7"](/ScreenShots/task_003_02.png "Screen 7")
-!["Скрин 8"](/ScreenShots/task_003_02.png "Screen 8")
-!["Скрин 9"](/ScreenShots/task_003_02.png "Screen 9")
+!["Скрин 8"](/ScreenShots/task_003_03.png "Screen 8")
+!["Скрин 9"](/ScreenShots/task_003_04.png "Screen 9")
 
 
 ---
