@@ -26,11 +26,13 @@ public class program {
         return result;
     }
 
+    // очистка терминала
     public static void clearScreen() {
         System.out.print("\033[H\033[2J");
         System.out.flush();
     }
 
+    // получение целочисленного значения с консоли
     public static int readIntConsole(String message){
         System.out.print(message);
         Scanner scanner = new Scanner(System.in);
